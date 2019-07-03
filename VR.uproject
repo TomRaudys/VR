@@ -12,6 +12,10 @@
 			"Name": "SteamVRInput",
 			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/401605a650e64a8fa3c0f45838a6357d"
+		},
+		{
+			"Name": "WebBrowserWidget",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
