@@ -1,4 +1,4 @@
 # VR Experiments
-This is my personal VR experiment project in Unreal Engine (4.22). Expect a lot of unrelated interactions and mechanics. 
+This is my personal VR experiment project in Unreal Engine (4.23). Expect a lot of unrelated interactions and mechanics. 
 
 Pull requests may be acecpted in the future. 
